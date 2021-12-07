@@ -3,10 +3,8 @@ def my_superfunction():
 
 
 def main():
-    print('My first git program')
-    print('And I change it every day')
-    print('Again')
-    print('UFO came and added this line')
+    print('S3RL')
+    print('0x3l9f7x0000')
     my_superfunction()
 
 
