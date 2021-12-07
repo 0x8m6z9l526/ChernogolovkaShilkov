@@ -1,6 +1,5 @@
-# ShilLkovNiKitA
 def my_superfunction():
-    print('Yandexlyceum')
+    print('What an awesome print!')
 
 
 def main():
@@ -9,7 +8,6 @@ def main():
     print('Again')
     print('UFO came and added this line')
     my_superfunction()
-    print(1)
 
 
 if __name__ == '__main__':
